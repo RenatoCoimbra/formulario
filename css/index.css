@@ -13,7 +13,7 @@ body {
   background-repeat: no-repeat;
 }
 
-header {
+main {
   display: flex;
   flex-direction: column;
   align-items: center;
