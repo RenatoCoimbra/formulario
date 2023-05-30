@@ -92,8 +92,6 @@ header {
 
 
 .button:hover {
-  margin: 5px;
-  padding: 5px;
   background-color: rgb(173, 112, 230);
   transform: scale(1.1);
   font-weight: bold;
